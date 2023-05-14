@@ -26,14 +26,6 @@ The course provides a good foundation in Java programming concepts and technique
 
 This repository contains my solutions to the programming exercises for the MOOC Java Programming I course. Each part of the course has its own folder, and each folder contains subfolders for each chapter of the course. Within each chapter folder, there are folders for each exercise. Each exercise folder contains the code for my solution to the exercise.
 
-## Completion Status
-
-I completed the MOOC Java Programming I course on [date of completion]. I found the course to be challenging but rewarding, and I gained a solid understanding of Java programming concepts and techniques.
-
-## Acknowledgements
-
-I would like to thank the University of Helsinki for providing this excellent course and making it freely available online. The course instructors and teaching assistants did a great job of explaining difficult concepts and providing helpful feedback on my exercises.
-
 ## Contact Information
 
 If you have any questions or comments about my work for the MOOC Java Programming I course, feel free to contact me at [your contact information].
