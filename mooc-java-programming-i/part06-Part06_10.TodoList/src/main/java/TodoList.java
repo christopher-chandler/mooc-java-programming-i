@@ -11,9 +11,7 @@ public class TodoList {
     }
 
     public void add (String task){
-
         errands.add(task);
-
     }
     public void print() {
 
@@ -23,7 +21,6 @@ public class TodoList {
             System.out.println(": "+task);
             count++;
         }
-
 
     }
 

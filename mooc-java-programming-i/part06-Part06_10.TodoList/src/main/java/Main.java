@@ -6,14 +6,10 @@ public class Main {
     public static void main(String[] args) {
 
         TodoList list = new TodoList();
-        list.add("read the course material");
-        list.add("watch the latest fool us");
-        list.add("take it easy");
+        Scanner scanner = new Scanner(System.in);
 
-        list.print();
-        list.remove(2);
+        UserInterface program = new UserInterface(list, scanner);
+        program.start();
 
-        System.out.println();
-        list.print();
     }
 }
